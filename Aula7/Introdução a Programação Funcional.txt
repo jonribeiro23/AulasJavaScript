@@ -1,0 +1,14 @@
+* Funções como literais
+*Funções de alta ordem
+
+
+Paradigma               Módulos             Comunicação               Composição
+=========               =======             ===========               ==========
+
+POO                     Objetos             Mensagens                 Herança e
+                                                                      Associação
+
+Imperativa              Procedimentos/      Estado compartilhado      Chamada ao Procedimento/
+(Estruturada)           Funções             (Variáveis globais)       Função
+
+Funcional               Funções             Aplicação da função

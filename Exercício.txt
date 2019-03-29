@@ -1,0 +1,25 @@
+1) Um funcionário é representado por
+{"nome":"NOMEFUNC","salarioHora":25.60,
+"qtHoras":25}, por exemplo.
+
+
+
+faça funções que
+
+
+a) Mostre todos os salários (e os nomes) 
+(salarioHora*qtHoras)
+de um vetor de funcionários.
+
+
+
+b) O nome dos funcionários 
+de maior e menor salário.
+
+
+
+c) A media de horas trabalhadas
+
+
+
+d) A media dos salários
