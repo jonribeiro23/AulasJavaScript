@@ -11,4 +11,4 @@ POO                     Objetos             Mensagens                 Herança e
 Imperativa              Procedimentos/      Estado compartilhado      Chamada ao Procedimento/
 (Estruturada)           Funções             (Variáveis globais)       Função
 
-Funcional               Funções             Aplicação da função
+Funcional               Funções             Aplicação da função       Composição de Funções
