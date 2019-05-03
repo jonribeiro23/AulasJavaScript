@@ -1,0 +1,7 @@
+1) Ao clicar em qualquer div, faça-a sumir;
+
+2) Pinte de vermelho todas as p's e de azul todas
+as divs.
+
+3) Concantene todos os conteúdos html dos elementos
+li.

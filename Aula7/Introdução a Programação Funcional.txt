@@ -12,3 +12,36 @@ Imperativa              Procedimentos/      Estado compartilhado      Chamada ao
 (Estruturada)           Funções             (Variáveis globais)       Função
 
 Funcional               Funções             Aplicação da função       Composição de Funções
+
+
+Traversals Funcionais
+========== ==========
+
+map e forEach ->    recebe uma função e aplica esta em todos os elementos, retornando uma
+--- - -------       lista com esses retornos. Ex:
+        
+        [e1, e2, e3..., en].map(f) => [f(e1), f(e2), f(e3)..., f(en)]
+        
+        [e1, e2, e3..., en].forEach(f) => ''
+
+
+filter ->   recebe um predicado e retorna os elementos que satisfazem a condilção
+------      do predicado. Ex:
+            
+            [e1, e2, e3, e4, e5].filter(p) => [e1, e2, e3, e4, e5]/*todos passam*/ ou [e1, e4, e5]/*alguns passam*/
+            
+            
+reduce ->   recebe uma função com dois parâmetros, o primeiro parametro representa 
+------      um valor acumulado e o segundo um elemento oriundo da lista e um valor
+            inicial. Ex:
+            
+            [e1, e2, e3, ..., en].reduce(f, e0);
+            f(en, ... f(e3, f(e2, f(e1, e0))) = saida
+            
+            
+Array.from() ->     recebe um nodelist(oriundo de busca do DOM) e retorna um array (que possui map, filter, reduce...)
+
+
+
+https://www.hackerrank.com/
+https://www.udemy.com/curso-python-3-completo/
