@@ -45,3 +45,4 @@ Array.from() ->     recebe um nodelist(oriundo de busca do DOM) e retorna um arr
 
 https://www.hackerrank.com/
 https://www.udemy.com/curso-python-3-completo/
+https://www.udemy.com/python-para-financas-investimentos-analise-de-dados/
