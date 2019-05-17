@@ -1,0 +1,10 @@
+1) Ao clicar em um botão faça com que suma
+todas as divs e todos os ps.
+
+2) Ao clicar em um parágrafo, 
+exceto aqueles com o conteudo html NAO,
+pinte de amarelo seu fundo.
+
+3) Ao sair de uma caixa de texto, pinte seu 
+fundo de amarelo caso este conteúdo não esteja
+vazio.
